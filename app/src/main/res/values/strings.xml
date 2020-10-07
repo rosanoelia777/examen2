@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">examen2</string>
+    <string name="id_txt">ID</string>
+    <string name="title_txt">Title</string>
+    <string name="pages_txt">Pages</string>
+    <string name="editorial_txt">Editorial</string>
+    <string name="author_txt">Author</string>
+    <string name="description_txt">Description</string>
+    <string name="photourl_txt">photoURL</string>
+    <string name="id_lbl">ID</string>
+    <string name="title_lbl">TITLE:</string>
+    <string name="pages_lbl">PAGES:</string>
+    <string name="editorial_lbl">EDITORIAL:</string>
+    <string name="author_lbl">AUTHOR:</string>
+    <string name="url_lbl">URL:</string>
+    <string name="description_lbl">DESCRIPTION:</string>
+
+</resources>
